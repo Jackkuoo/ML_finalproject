@@ -1,7 +1,5 @@
-# ML_finalproject
-
-# 2017 Spring Machine Learning
-by NCTU Graduate of Electronic Engineering 
+# 2017 Spring(105-2) Machine Learning
+NCTU Graduate of Electronic Engineering 
 Instructor: Sheng-Jyh Wang
 
 Textbook: Pattern Recognition and Machine Learning
